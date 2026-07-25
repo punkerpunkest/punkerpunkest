@@ -1,38 +1,38 @@
 <div align="center">
   <img width="600" alt="shattered" src="https://github.com/user-attachments/assets/95b13247-80ac-4ce5-b002-994a716df76f" />
 </div>
+
 <br>
-<table align="center">
+
+<table align="center" width="100%">
 <tr>
-<td width="25%" valign="top">
+<td valign="top">
 
+**Low Level**
 
-
-### Low Level
-
-[Flame Simulator](https://github.com/punkerpunkest/Flame-Simulator)<br>
-[Flocking Simulator](https://github.com/punkerpunkest/Flocking-Simulator)
+[Flame&nbsp;Simulator](https://github.com/punkerpunkest/Flame-Simulator)<br>
+[Flocking&nbsp;Simulator](https://github.com/punkerpunkest/Flocking-Simulator)
 
 </td>
-<td width="25%" valign="top">
+<td valign="top">
 
-### Dist Systems (w/ videos)
+**Dist&nbsp;Systems** <sub>w/ videos</sub>
 
-[Distributed Rate Limiter](https://github.com/punkerpunkest/distributed-rate-limiter)
-
-</td>
-<td width="25%" valign="top">
-
-### DSA (w/ videos)
-
-[Segment Tree](https://github.com/punkerpunkest/segment-tree)
+[Distributed&nbsp;Rate&nbsp;Limiter](https://github.com/punkerpunkest/distributed-rate-limiter)
 
 </td>
-<td width="25%" valign="top">
+<td valign="top">
 
-### Tools
+**DSA** <sub>w/ videos</sub>
 
-[System Design Canvas](https://github.com/punkerpunkest/system-design-canvas)
+[Segment&nbsp;Tree](https://github.com/punkerpunkest/segment-tree)
+
+</td>
+<td valign="top">
+
+**Tools**
+
+[System&nbsp;Design&nbsp;Canvas](https://github.com/punkerpunkest/system-design-canvas)
 
 </td>
 </tr>
