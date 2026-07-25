@@ -1,6 +1,6 @@
 # Low Level
 
-- [Flame Simulator](https://github.com/punkerpunkest/Flame-Simulator) — real time fire simulation in C++.
+- [Flame Simulator](https://github.com/punkerpunkest/Flame-Simulator) — real time fire simulation in C++. 
 - [Flocking Simulator](https://github.com/punkerpunkest/Flocking-Simulator) — boids in C++, with QuadTree neighbour queries and a custom arena allocator.
 
 # System Design (with videos)
