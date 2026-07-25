@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="20%" valign="top">
+<td width="25%" valign="top">
 
 ## Low Level
 
@@ -9,28 +9,21 @@
 [Flocking Simulator](https://github.com/punkerpunkest/Flocking-Simulator)
 
 </td>
-<td width="20%" valign="top">
+<td width="25%" valign="top">
 
-## System Design (with videos)
+## Distributed Systems (w/ videos)
 
 [Distributed Rate Limiter](https://github.com/punkerpunkest/distributed-rate-limiter)
 
 </td>
-<td width="20%" valign="top">
+<td width="25%" valign="top">
 
-## Competitive Programming (with videos)
+## Competitive Programming (w/ videos)
 
 [Segment Tree](https://github.com/punkerpunkest/segment-tree)
 
 </td>
-<td width="20%" valign="top">
-
-## iOS Apps
-
-[Sheperly](https://sheperly.com/) (WIP)
-
-</td>
-<td width="20%" valign="top">
+<td width="25%" valign="top">
 
 ## Tools
 
