@@ -11,14 +11,14 @@
 </td>
 <td width="25%" valign="top">
 
-## Distributed Systems (w/ videos)
+## Dist Systems (w/ videos)
 
 [Distributed Rate Limiter](https://github.com/punkerpunkest/distributed-rate-limiter)
 
 </td>
 <td width="25%" valign="top">
 
-## Competitive Programming (w/ videos)
+## DSA (w/ videos)
 
 [Segment Tree](https://github.com/punkerpunkest/segment-tree)
 
