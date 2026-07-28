@@ -36,4 +36,22 @@
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Hackathons**
+
+[Cropwise](https://devpost.com/software/cropwise-grc7qy) <sub>Most on Theme</sub><br>
+[Flicks](https://devpost.com/software/flicks-3gplf4) <sub>Runner Up</sub><br>
+[Horizen](https://devpost.com/software/horizen)
+
+</td>
+<td colspan="2" valign="top">
+
+**iOS**
+
+[Sheperly](https://sheperly.com/) <sub>WIP</sub>
+
+</td>
+</tr>
 </table>
