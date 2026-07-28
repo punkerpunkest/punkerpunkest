@@ -44,8 +44,8 @@
 
 **Hackathons**
 
-[Cropwise](https://devpost.com/software/cropwise-grc7qy) <sub>Most on Theme</sub><br>
-[Flicks](https://devpost.com/software/flicks-3gplf4) <sub>Runner Up</sub><br>
+[Cropwise](https://devpost.com/software/cropwise-grc7qy)&nbsp;<sub>Most&nbsp;on&nbsp;Theme</sub><br>
+[Flicks](https://devpost.com/software/flicks-3gplf4)&nbsp;<sub>Runner&nbsp;Up</sub><br>
 [Horizen](https://devpost.com/software/horizen)
 
 </td>
@@ -53,7 +53,7 @@
 
 **iOS**
 
-[Sheperly](https://sheperly.com/) <sub>WIP</sub>
+[Sheperly](https://sheperly.com/)&nbsp;<sub>WIP</sub>
 
 </td>
 <td width="25%" valign="top">
