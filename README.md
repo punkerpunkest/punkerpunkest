@@ -6,7 +6,7 @@
 
 <table align="center" width="100%">
 <tr>
-<td valign="top">
+<td width="25%" valign="top">
 
 **Low Level**
 
@@ -14,21 +14,21 @@
 [Flocking&nbsp;Simulator](https://github.com/punkerpunkest/Flocking-Simulator)
 
 </td>
-<td valign="top">
+<td width="25%" valign="top">
 
 **Dist&nbsp;Systems** <sub>w/ videos</sub>
 
 [Distributed&nbsp;Rate&nbsp;Limiter](https://github.com/punkerpunkest/distributed-rate-limiter)
 
 </td>
-<td valign="top">
+<td width="25%" valign="top">
 
 **DSA** <sub>w/ videos</sub>
 
 [Segment&nbsp;Tree](https://github.com/punkerpunkest/segment-tree)
 
 </td>
-<td valign="top">
+<td width="25%" valign="top">
 
 **Tools**
 
@@ -36,8 +36,11 @@
 
 </td>
 </tr>
+</table>
+
+<table align="center" width="100%">
 <tr>
-<td colspan="2" valign="top">
+<td width="25%" valign="top">
 
 **Hackathons**
 
@@ -46,12 +49,16 @@
 [Horizen](https://devpost.com/software/horizen)
 
 </td>
-<td colspan="2" valign="top">
+<td width="25%" valign="top">
 
 **iOS**
 
 [Sheperly](https://sheperly.com/) <sub>WIP</sub>
 
+</td>
+<td width="25%" valign="top">
+</td>
+<td width="25%" valign="top">
 </td>
 </tr>
 </table>
