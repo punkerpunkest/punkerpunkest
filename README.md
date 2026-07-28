@@ -5,6 +5,7 @@
 <br>
 
 <table align="center" width="100%">
+<thead>
 <tr>
 <td width="25%" valign="top">
 
@@ -36,9 +37,8 @@
 
 </td>
 </tr>
-</table>
-
-<table align="center" width="100%">
+</thead>
+<tbody>
 <tr>
 <td width="25%" valign="top">
 
@@ -61,4 +61,5 @@
 <td width="25%" valign="top">
 </td>
 </tr>
+</tbody>
 </table>
