@@ -12,7 +12,8 @@
 **Low Level**
 
 [Flame&nbsp;Simulator](https://github.com/punkerpunkest/Flame-Simulator)<br>
-[Flocking&nbsp;Simulator](https://github.com/punkerpunkest/Flocking-Simulator)
+[Flocking&nbsp;Simulator](https://github.com/punkerpunkest/Flocking-Simulator)<br>
+[Warehouse&nbsp;Robot&nbsp;Controller](https://github.com/punkerpunkest/warehouse-robot-controller)
 
 </td>
 <td width="25%" valign="top">
